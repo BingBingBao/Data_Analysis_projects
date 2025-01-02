@@ -16,7 +16,8 @@ This dataset contains information on renewable energy adoption and usage by hous
 
 # Data Analysis Results:
 ## 1. What is the distribution of the renewable energy?
-![image](https://github.com/user-attachments/assets/0e0c904b-7663-4957-91f4-7ecb60ecce50)
+![image](https://github.com/user-attachments/assets/e8bf1500-f77c-4d4c-90cc-06eaaa8e037e)
+
 
 Insights: 
 1. Wind energy dominates slightly but is closely followed by Solar, Hydro, and Biomass. 
@@ -24,7 +25,8 @@ Insights:
 Then, we now explore the specific distribution for each continent.
 
 ## 2. How does the distribution differ across continents or countries?
-![image](https://github.com/user-attachments/assets/5df6331e-70d9-4131-9232-ec860142d7ff)
+![image](https://github.com/user-attachments/assets/af43f19d-ac3b-416c-9cad-a42ef6128c03)
+
 
 Insights:
 1. There are some slight differences in the distribution across continents;
@@ -33,7 +35,7 @@ Insights:
 4. Hydro has the largest share in Europe.
 
 ## 3. Adoption Trends over time
-![image](https://github.com/user-attachments/assets/60fef7f7-a76e-4431-b265-fc5eb508afcf)
+![image](https://github.com/user-attachments/assets/ff4141ae-48f3-49a5-9b31-e88e2b5d77c3)
 
 Insights: 
 1. Wind dominates in Africa, Asia, and South America， while Solar leads in North America.
@@ -41,14 +43,14 @@ Insights:
 3. Europe demonstrates a clear distinction in the adoption of various energy sources.
 
 ## 4. Relationship Between Energy Adoption and Household size/Location/Subsidy
-![image](https://github.com/user-attachments/assets/d24a47ea-a89b-4f9e-92fc-b6078f48b6a6)
+![image](https://github.com/user-attachments/assets/2a9f7ecf-b389-4cc7-8f53-4a8ce8002228)
 
 Insights: 
 
 Based on the Boxplot Or Chi-square Test (P=0.41/0.94/0.63), the choice of energy source does not appear to be influenced by household size/location/subsidy in a statistically significant way.
 
 ## 5. Higher Usage, Higher cost saving?
-![image](https://github.com/user-attachments/assets/304aedec-01b8-4fbd-89ac-6b9e38f104c0)
+![image](https://github.com/user-attachments/assets/6ef50009-6766-43ea-b9b3-615b43f0845d)
 
 Insights: 
 1. No **strong or consistent** positive association between Monthly usage and Cost saving;
@@ -57,7 +59,7 @@ Insights:
 So, The relationships between Monthly Usage, Cost Saving, and Household Size appear weak or non-existent based on this data
 
 ## 6. Subsidy vs. Monthly Usage
-![image](https://github.com/user-attachments/assets/7cbb74d7-e9c7-4128-a05a-0fc1ec06afaf)
+![image](https://github.com/user-attachments/assets/f3746d67-699c-4487-b521-17605885557f)
 Insights: Monthly usage distributions are similar between households with and without subsidies for all energy sources.
 
 
