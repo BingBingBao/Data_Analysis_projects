@@ -1,6 +1,6 @@
 # Global Renewable Energy Usage (2020-2024)
 
-This dataset is loaded from Kaggel https://www.kaggle.com/datasets/hajraamir21/global-renewable-energy-usage-2020-2024
+This dataset is downloaded from Kaggel https://www.kaggle.com/datasets/hajraamir21/global-renewable-energy-usage-2020-2024
 
 
 This dataset contains information on renewable energy adoption and usage by households around the world, spanning the years 2020 to 2024. It provides insights into the growing trend of renewable energy sources like solar, wind, hydro, and geothermal being utilized in residential settings. The data includes factors such as household size, income levels, urban vs rural locations, and government subsidies, which may influence renewable energy adoption and consumption.
